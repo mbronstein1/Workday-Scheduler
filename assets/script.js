@@ -78,7 +78,7 @@ init()
 //Find value for current hour
 var currentHour = moment().hours();
 // var currentHour = 12
-console.log(currentHour);
+// console.log(currentHour);
 
 for (var i = 0; i < timeBlock.length; i++) {
     if (timeBlock[i].dataset.time == currentHour) {
