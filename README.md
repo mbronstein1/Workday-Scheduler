@@ -1,9 +1,9 @@
 # Workday-Scheduler-Challenge-5
 
 ## Description
-This is the fourth challenge in the Northwestern Coding Bootcamp (Module 4). We, the students, were to create a timed coding multiple-choice quiz with multiple questions, where correct answers were tracked and incorrect answers reduced the time faster. We were also required to store scores and user initials in our local storage so when we refresh the scores page or visit it on another day, the scores and initials still render.
+This is the fifth challenge in the Northwestern Coding Bootcamp (Module 5). We were required to create a workday calendar that accepted inputs and saved them to local storage, as well as tracking the current time and color-coding the calendar depending on whether the time is past, current, or future. Each input will remain when you refresh as long as you clicked the blue save button on the right until you delete the input manually and click the save button. We were given most of the css but had to figure out where in the html the classes needed to be inputted. We also were given zero js, so that was either built from scratch or imported with momentjs and jquery.
 
-For the first time, we also created a relatively plain html file and dynamically created the text, buttons, etc on the page using javascript. This was, by far, the most challenging aspect of the project.
+As this module was about third-party APIs, we implemented Bootstrap, jQuery, and moment.js.
 
 ## Link to live page
 [Live Link](https://mbronstein1.github.io/Workday-Scheduler-Challenge-5/)
