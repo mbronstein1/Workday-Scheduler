@@ -1,4 +1,4 @@
-# Workday-Scheduler-Challenge-5
+# Workday Scheduler
 
 ## Description
 This is the fifth challenge in the Northwestern Coding Bootcamp (Module 5). We were required to create a workday calendar that accepted inputs and saved them to local storage, as well as tracking the current time and color-coding the calendar depending on whether the time is past, current, or future. Each input will remain when you refresh as long as you clicked the blue save button on the right until you delete the input manually and click the save button. We were given most of the css but had to figure out where in the html the classes needed to be inputted. We also were given zero js, so that was either built from scratch or imported with momentjs and jquery.
@@ -6,7 +6,7 @@ This is the fifth challenge in the Northwestern Coding Bootcamp (Module 5). We w
 As this module was about third-party APIs, we implemented Bootstrap, jQuery, and moment.js.
 
 ## Link to live page
-[Live Link](https://mbronstein1.github.io/Workday-Scheduler-Challenge-5/)
+[Live Link](https://mbronstein1.github.io/Workday-Scheduler/)
 
 ## Screenshot
 ![Webpage Screenshot](./assets/images/Work-day-scheduler-screenshot.jpg)
